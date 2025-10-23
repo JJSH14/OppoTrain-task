@@ -262,4 +262,4 @@ If you need to test on web, you must modify the storage implementation:
 
 ---
 
-**Built with Flutter 💙**
+**Built By Jihad**
